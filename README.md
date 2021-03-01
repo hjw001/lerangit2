@@ -1,3 +1,4 @@
+feature2 branch
 feature branch
 new commit
 new branch
